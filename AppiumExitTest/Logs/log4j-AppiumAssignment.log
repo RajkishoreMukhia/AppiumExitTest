@@ -1,0 +1,585 @@
+2022-03-14 17:00:17,281  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 17:00:20,934  INFO [main] Animation:22 - Start The App
+ 2022-03-14 17:00:33,064  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 17:00:40,333  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 17:00:40,424  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 17:00:40,706  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 17:00:42,281  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 17:00:47,906  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 17:00:47,908  INFO [main] Hooks:33 - Colse the Server
+ 2022-03-14 17:00:47,969  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 17:04:02,142  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 17:04:05,604  INFO [main] Animation:22 - Start The App
+ 2022-03-14 17:04:17,130  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 17:04:24,511  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 17:04:24,570  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 17:04:25,895  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 17:04:26,274  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 17:04:31,367  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 17:04:31,368  INFO [main] Hooks:34 - Colse the Server
+ 2022-03-14 17:04:31,430  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 17:05:51,093  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 17:05:54,587  INFO [main] Animation:22 - Start The App
+ 2022-03-14 17:06:05,866  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 17:06:13,157  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 17:06:13,216  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 17:06:14,622  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 17:06:14,964  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 17:06:20,085  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 17:06:20,086  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 17:06:20,386  INFO [main] Hooks:34 - Colse the Server
+ 2022-03-14 17:09:24,401  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 17:09:27,656  INFO [main] Animation:22 - Start The App
+ 2022-03-14 17:09:37,279  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 17:09:44,453  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 17:09:44,512  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 17:09:45,885  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 17:09:46,162  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 17:09:51,309  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 17:09:51,310  INFO [main] Hooks:33 - Colse the Server
+ 2022-03-14 17:09:51,371  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 17:10:44,934  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 17:10:48,836  INFO [main] Animation:22 - Start The App
+ 2022-03-14 17:11:01,924  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 17:11:09,185  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 17:11:09,269  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 17:11:09,552  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 17:11:11,368  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 17:11:17,003  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 17:11:17,006  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 17:11:17,328  INFO [main] Hooks:33 - Colse the Server
+ 2022-03-14 17:14:28,970  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 17:14:32,589  INFO [main] Animation:22 - Start The App
+ 2022-03-14 17:14:44,567  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 17:14:51,759  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 17:14:51,834  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 17:14:53,358  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 17:14:53,802  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 17:14:59,438  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 17:14:59,441  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 17:15:04,716  INFO [main] Hooks:33 - Colse the Server
+ 2022-03-14 17:21:48,874  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 17:21:52,579  INFO [main] Animation:22 - Start The App
+ 2022-03-14 17:22:10,628  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 17:22:18,318  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 17:22:18,400  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 17:22:19,943  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 17:22:20,382  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 17:22:26,028  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 17:22:26,029  INFO [main] Hooks:33 - Colse the Server
+ 2022-03-14 17:22:26,088  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 17:23:31,277  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 17:23:35,211  INFO [main] Animation:22 - Start The App
+ 2022-03-14 17:23:49,198  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 17:23:56,343  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 17:23:56,423  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 17:23:57,993  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 17:23:58,387  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 17:24:03,597  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 17:24:03,600  INFO [main] Hooks:33 - Colse the Server
+ 2022-03-14 17:24:03,659  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 17:27:13,025  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 17:27:16,874  INFO [main] Animation:22 - Start The App
+ 2022-03-14 17:27:33,346  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 17:27:35,780  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 17:27:35,854  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 17:27:37,333  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 17:27:37,842  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 17:27:38,460  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 17:27:38,463  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 17:27:43,795  INFO [main] Hooks:34 - Colse the Server
+ 2022-03-14 17:28:16,000  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 17:28:19,622  INFO [main] Animation:22 - Start The App
+ 2022-03-14 17:28:31,131  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 17:28:33,428  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 17:28:33,502  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 17:28:34,939  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 17:28:35,441  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 17:28:36,211  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 17:28:36,213  INFO [main] Hooks:34 - Colse the Server
+ 2022-03-14 17:28:36,270  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 17:28:51,155  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 17:28:55,072  INFO [main] Animation:22 - Start The App
+ 2022-03-14 17:29:08,093  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 17:29:10,415  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 17:29:10,486  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 17:29:11,986  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 17:29:12,501  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 17:29:13,138  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 17:29:13,139  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 17:29:18,364  INFO [main] Hooks:34 - Colse the Server
+ 2022-03-14 17:29:27,972  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 17:29:31,949  INFO [main] Animation:22 - Start The App
+ 2022-03-14 17:29:42,043  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 17:29:44,271  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 17:29:44,329  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 17:29:45,850  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 17:29:46,308  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 17:29:46,954  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 17:29:46,956  INFO [main] Hooks:34 - Colse the Server
+ 2022-03-14 17:29:47,014  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 17:30:10,158  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 17:30:14,130  INFO [main] Animation:22 - Start The App
+ 2022-03-14 17:30:27,806  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 17:30:29,792  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 17:30:29,890  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 17:30:31,414  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 17:30:31,892  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 17:30:32,523  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 17:30:32,525  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 17:30:37,798  INFO [main] Hooks:34 - Colse the Server
+ 2022-03-14 17:53:19,664  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 17:53:23,002  INFO [main] Animation:22 - Start The App
+ 2022-03-14 17:53:30,336  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 17:53:33,104  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 17:53:33,128  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 17:53:34,438  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 17:53:34,703  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 17:53:34,813  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 17:53:34,814  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 17:53:40,000  INFO [main] Hooks:34 - Colse the Server
+ 2022-03-14 19:30:58,756  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 19:31:02,345  INFO [main] Animation:22 - Start The App
+ 2022-03-14 19:31:15,692  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 19:31:18,072  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 19:31:18,142  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 19:31:19,623  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 19:31:20,153  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 19:31:20,776  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 19:31:20,778  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 19:31:26,050  INFO [main] Hooks:34 - Colse the Server
+ 2022-03-14 19:31:36,877  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 19:31:41,230  INFO [main] Animation:22 - Start The App
+ 2022-03-14 19:31:53,124  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 19:31:55,300  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 19:31:55,370  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 19:31:56,963  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 19:31:57,396  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 19:31:57,534  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 19:31:57,536  INFO [main] Hooks:34 - Colse the Server
+ 2022-03-14 19:31:57,591  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 19:32:12,706  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 19:32:16,404  INFO [main] Animation:22 - Start The App
+ 2022-03-14 19:32:29,200  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 19:32:31,467  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 19:32:31,515  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 19:32:31,706  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 19:32:33,389  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 19:32:34,070  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 19:32:34,071  INFO [main] Hooks:34 - Colse the Server
+ 2022-03-14 19:32:34,134  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 19:34:47,185  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 19:34:50,626  INFO [main] Animation:22 - Start The App
+ 2022-03-14 19:35:03,146  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 19:35:05,457  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 19:35:05,531  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 19:35:05,809  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 19:35:07,311  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 19:35:07,949  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 19:35:07,951  INFO [main] Hooks:34 - Colse the Server
+ 2022-03-14 19:35:08,006  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 19:35:43,903  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 19:35:47,872  INFO [main] Animation:22 - Start The App
+ 2022-03-14 19:36:02,590  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 19:36:04,817  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 19:36:04,896  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 19:36:06,352  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 19:36:06,865  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 19:36:07,504  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 19:36:07,506  INFO [main] Hooks:34 - Colse the Server
+ 2022-03-14 19:36:12,571  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 19:36:32,041  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 19:36:35,698  INFO [main] Animation:22 - Start The App
+ 2022-03-14 19:36:49,568  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 19:36:51,723  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 19:36:51,800  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 19:36:52,104  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 19:36:53,570  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 19:36:53,678  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 19:36:53,679  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 19:36:53,915  INFO [main] Hooks:34 - Colse the Server
+ 2022-03-14 19:37:05,831  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 19:37:09,761  INFO [main] Animation:22 - Start The App
+ 2022-03-14 19:37:21,464  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 19:37:23,812  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 19:37:23,900  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 19:37:25,542  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 19:37:26,055  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 19:37:26,695  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 19:37:26,696  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 19:37:27,012  INFO [main] Hooks:34 - Colse the Server
+ 2022-03-14 19:37:35,588  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 19:37:40,857  INFO [main] Animation:22 - Start The App
+ 2022-03-14 19:37:52,922  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 19:37:55,058  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 19:37:55,135  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 19:37:55,359  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 19:37:56,976  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 19:37:57,606  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 19:37:57,607  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 19:37:57,863  INFO [main] Hooks:34 - Colse the Server
+ 2022-03-14 19:38:06,017  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 19:38:15,201  INFO [main] Animation:22 - Start The App
+ 2022-03-14 19:38:28,870  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 19:38:31,250  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 19:38:31,325  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 19:38:32,847  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 19:38:33,332  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 19:38:33,954  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 19:38:33,956  INFO [main] Hooks:34 - Colse the Server
+ 2022-03-14 19:38:34,019  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 19:38:49,913  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 19:38:54,088  INFO [main] Animation:22 - Start The App
+ 2022-03-14 19:39:10,567  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 19:39:12,638  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 19:39:12,706  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 19:39:12,940  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 19:39:14,737  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 19:39:15,370  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 19:39:15,371  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 19:39:15,619  INFO [main] Hooks:34 - Colse the Server
+ 2022-03-14 19:39:59,410  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 19:40:03,546  INFO [main] Animation:22 - Start The App
+ 2022-03-14 19:40:15,425  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 19:40:17,792  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 19:40:17,845  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 19:40:19,443  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 19:40:19,923  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 19:40:20,124  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 19:40:20,125  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 19:40:20,377  INFO [main] Hooks:34 - Colse the Server
+ 2022-03-14 19:40:29,651  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 19:40:34,624  INFO [main] Animation:22 - Start The App
+ 2022-03-14 19:40:46,274  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 19:40:48,586  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 19:40:48,651  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 19:40:50,154  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 19:40:50,593  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 19:40:50,767  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 19:40:50,770  INFO [main] Hooks:34 - Colse the Server
+ 2022-03-14 19:40:50,832  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 19:41:05,455  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 19:41:09,127  INFO [main] Animation:22 - Start The App
+ 2022-03-14 19:41:22,071  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 19:41:24,495  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 19:41:24,584  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 19:41:25,576  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 19:41:28,069  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 19:41:28,464  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 19:41:28,466  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 19:41:29,060  INFO [main] Hooks:34 - Colse the Server
+ 2022-03-14 19:43:16,202  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 19:43:20,067  INFO [main] Animation:22 - Start The App
+ 2022-03-14 19:43:33,330  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 19:43:36,035  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 19:43:36,104  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 19:43:37,597  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 19:43:38,054  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 19:43:38,708  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 19:43:38,709  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 19:43:38,979  INFO [main] Hooks:34 - Colse the Server
+ 2022-03-14 19:52:39,268  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 19:52:44,499  INFO [main] Animation:22 - Start The App
+ 2022-03-14 19:53:00,150  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 19:53:03,061  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 19:53:03,127  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 19:53:04,671  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 19:53:05,318  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 19:53:06,021  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 19:53:06,023  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 19:53:06,841  INFO [main] Hooks:34 - Colse the Server
+ 2022-03-14 19:54:29,788  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 19:54:33,334  INFO [main] Animation:22 - Start The App
+ 2022-03-14 19:54:53,827  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 19:54:56,510  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 19:54:56,616  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 19:54:58,645  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 19:55:00,490  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 19:55:00,806  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 19:55:00,808  INFO [main] Hooks:34 - Colse the Server
+ 2022-03-14 19:55:00,865  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 19:55:17,250  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 19:55:20,697  INFO [main] Animation:22 - Start The App
+ 2022-03-14 19:55:48,475  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 19:55:52,037  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 19:55:52,097  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 19:55:53,082  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 19:55:54,968  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 19:55:55,323  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 19:55:55,325  INFO [main] Hooks:34 - Colse the Server
+ 2022-03-14 19:55:55,380  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 19:56:16,037  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 19:56:20,143  INFO [main] Animation:22 - Start The App
+ 2022-03-14 19:56:47,657  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 19:56:50,974  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 19:56:51,034  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 19:56:51,359  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 19:56:53,659  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 19:56:53,967  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 19:56:53,969  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 19:56:54,849  INFO [main] Hooks:34 - Colse the Server
+ 2022-03-14 20:00:36,209  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 20:00:42,174  INFO [main] Animation:22 - Start The App
+ 2022-03-14 20:00:53,610  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 20:00:55,920  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 20:00:55,978  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 20:00:57,521  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 20:00:57,951  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 20:00:58,074  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 20:00:58,075  INFO [main] Hooks:34 - Colse the Server
+ 2022-03-14 20:00:58,136  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 20:04:07,052  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 20:04:11,144  INFO [main] Animation:22 - Start The App
+ 2022-03-14 20:04:24,454  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 20:04:26,824  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 20:04:26,856  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 20:04:27,103  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 20:04:29,666  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 20:04:30,044  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 20:04:30,045  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 20:04:30,836  INFO [main] Hooks:34 - Colse the Server
+ 2022-03-14 20:12:42,751  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 20:12:47,571  INFO [main] Animation:22 - Start The App
+ 2022-03-14 20:13:04,037  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 20:13:08,911  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 20:13:08,982  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 20:13:12,757  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 20:13:13,506  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 20:13:13,833  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 20:13:13,835  INFO [main] Hooks:33 - Colse the Server
+ 2022-03-14 20:13:13,888  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 20:13:24,605  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 20:13:31,594  INFO [main] Animation:22 - Start The App
+ 2022-03-14 20:14:03,096  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 20:14:06,254  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 20:14:06,337  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 20:14:08,509  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 20:14:09,507  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 20:14:09,798  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 20:14:09,802  INFO [main] Hooks:33 - Colse the Server
+ 2022-03-14 20:14:09,855  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 20:15:46,811  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 20:15:51,320  INFO [main] Animation:22 - Start The App
+ 2022-03-14 20:16:11,486  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 20:16:14,978  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 20:16:15,065  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 20:16:15,419  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 20:16:17,871  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 20:16:18,174  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 20:16:18,175  INFO [main] Hooks:33 - Colse the Server
+ 2022-03-14 20:16:18,236  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 20:17:33,049  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 20:17:38,764  INFO [main] Animation:22 - Start The App
+ 2022-03-14 20:18:09,168  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 20:18:11,872  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 20:18:11,940  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 20:18:12,217  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 20:18:14,067  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 20:18:14,702  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 20:18:14,704  INFO [main] Hooks:33 - Colse the Server
+ 2022-03-14 20:18:14,758  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 20:18:30,905  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 20:18:35,677  INFO [main] Animation:22 - Start The App
+ 2022-03-14 20:19:05,392  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 20:19:08,017  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 20:19:08,053  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 20:19:09,561  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 20:19:09,997  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 20:19:10,626  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 20:19:10,627  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 20:19:10,758  INFO [main] Hooks:33 - Colse the Server
+ 2022-03-14 20:19:49,015  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 20:19:52,669  INFO [main] Animation:22 - Start The App
+ 2022-03-14 20:20:05,515  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 20:20:08,136  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 20:20:08,189  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 20:20:08,357  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 20:20:10,129  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 20:20:10,758  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 20:20:10,759  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 20:20:11,070  INFO [main] Hooks:33 - Colse the Server
+ 2022-03-14 20:20:22,324  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-14 20:20:26,738  INFO [main] Animation:22 - Start The App
+ 2022-03-14 20:20:38,577  INFO [main] Animation:29 - Click on animation
+ 2022-03-14 20:20:40,884  INFO [main] Animation:31 - Click on animation end
+ 2022-03-14 20:20:40,945  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-14 20:20:42,423  INFO [main] Animation:53 - click on hide btn
+ 2022-03-14 20:20:42,912  INFO [main] Animation:56 - click on hide btn
+ 2022-03-14 20:20:43,037  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-14 20:20:43,039  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-14 20:20:43,280  INFO [main] Hooks:33 - Colse the Server
+ 2022-03-16 09:38:06,521  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-16 09:38:12,552  INFO [main] Animation:22 - Start The App
+ 2022-03-16 09:38:41,454  INFO [main] Animation:29 - Click on animation
+ 2022-03-16 09:38:44,643  INFO [main] Animation:31 - Click on animation end
+ 2022-03-16 09:38:44,740  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-16 09:38:44,945  INFO [main] Animation:53 - click on hide btn
+ 2022-03-16 09:38:46,314  INFO [main] Animation:56 - click on hide btn
+ 2022-03-16 09:38:46,442  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-16 09:38:46,442  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-16 09:38:46,786  INFO [main] Hooks:33 - Colse the Server
+ 2022-03-16 09:40:00,098  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-16 09:40:03,913  INFO [main] Animation:22 - Start The App
+ 2022-03-16 09:40:15,029  INFO [main] Animation:29 - Click on animation
+ 2022-03-16 09:40:17,619  INFO [main] Animation:31 - Click on animation end
+ 2022-03-16 09:40:17,673  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-16 09:40:19,243  INFO [main] Animation:53 - click on hide btn
+ 2022-03-16 09:40:19,695  INFO [main] Animation:56 - click on hide btn
+ 2022-03-16 09:40:20,314  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-16 09:40:20,315  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-16 09:40:20,537  INFO [main] Hooks:33 - Colse the Server
+ 2022-03-16 09:40:33,059  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-16 09:40:36,857  INFO [main] Animation:22 - Start The App
+ 2022-03-16 09:40:48,086  INFO [main] Animation:29 - Click on animation
+ 2022-03-16 09:40:50,422  INFO [main] Animation:31 - Click on animation end
+ 2022-03-16 09:40:50,473  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-16 09:40:51,878  INFO [main] Animation:53 - click on hide btn
+ 2022-03-16 09:40:52,277  INFO [main] Animation:56 - click on hide btn
+ 2022-03-16 09:40:52,450  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-16 09:40:52,452  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-16 09:40:52,776  INFO [main] Hooks:33 - Colse the Server
+ 2022-03-16 09:41:47,564  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-16 09:41:50,885  INFO [main] Animation:22 - Start The App
+ 2022-03-16 09:42:00,663  INFO [main] Animation:29 - Click on animation
+ 2022-03-16 09:42:03,227  INFO [main] Animation:31 - Click on animation end
+ 2022-03-16 09:42:03,272  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-16 09:42:04,720  INFO [main] Animation:53 - click on hide btn
+ 2022-03-16 09:42:05,100  INFO [main] Animation:56 - click on hide btn
+ 2022-03-16 09:42:05,736  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-16 09:42:05,738  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-16 09:42:06,014  INFO [main] Hooks:33 - Colse the Server
+ 2022-03-16 09:42:33,471  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-16 09:42:37,089  INFO [main] Animation:22 - Start The App
+ 2022-03-16 09:42:49,223  INFO [main] Animation:29 - Click on animation
+ 2022-03-16 09:42:51,593  INFO [main] Animation:31 - Click on animation end
+ 2022-03-16 09:42:51,633  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-16 09:42:52,978  INFO [main] Animation:53 - click on hide btn
+ 2022-03-16 09:42:53,305  INFO [main] Animation:56 - click on hide btn
+ 2022-03-16 09:42:53,412  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-16 09:42:53,413  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-16 09:42:53,635  INFO [main] Hooks:33 - Colse the Server
+ 2022-03-16 09:43:08,385  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-16 09:43:11,988  INFO [main] Animation:22 - Start The App
+ 2022-03-16 09:43:23,411  INFO [main] Animation:29 - Click on animation
+ 2022-03-16 09:43:25,678  INFO [main] Animation:31 - Click on animation end
+ 2022-03-16 09:43:25,722  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-16 09:43:27,126  INFO [main] Animation:53 - click on hide btn
+ 2022-03-16 09:43:27,509  INFO [main] Animation:56 - click on hide btn
+ 2022-03-16 09:43:28,140  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-16 09:43:28,141  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-16 09:43:28,415  INFO [main] Hooks:33 - Colse the Server
+ 2022-03-16 09:43:55,179  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-16 09:43:59,072  INFO [main] Animation:22 - Start The App
+ 2022-03-16 09:44:11,219  INFO [main] Animation:29 - Click on animation
+ 2022-03-16 09:44:13,613  INFO [main] Animation:31 - Click on animation end
+ 2022-03-16 09:44:13,691  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-16 09:44:15,318  INFO [main] Animation:53 - click on hide btn
+ 2022-03-16 09:44:15,885  INFO [main] Animation:56 - click on hide btn
+ 2022-03-16 09:44:16,532  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-16 09:44:16,534  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-16 09:44:16,872  INFO [main] Hooks:33 - Colse the Server
+ 2022-03-16 13:58:01,709  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-16 13:58:06,570  INFO [main] Animation:22 - Start The App
+ 2022-03-16 13:58:17,619  INFO [main] Animation:29 - Click on animation
+ 2022-03-16 13:58:20,049  INFO [main] Animation:31 - Click on animation end
+ 2022-03-16 13:58:20,122  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-16 13:58:21,684  INFO [main] Animation:53 - click on hide btn
+ 2022-03-16 13:58:22,141  INFO [main] Animation:56 - click on hide btn
+ 2022-03-16 13:58:22,786  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-16 13:58:22,788  INFO [main] Hooks:33 - Colse the Server
+ 2022-03-16 13:58:22,853  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-16 13:58:40,267  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-16 13:58:45,006  INFO [main] Animation:22 - Start The App
+ 2022-03-16 13:58:58,961  INFO [main] Animation:29 - Click on animation
+ 2022-03-16 13:59:01,358  INFO [main] Animation:31 - Click on animation end
+ 2022-03-16 13:59:01,432  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-16 13:59:02,918  INFO [main] Animation:53 - click on hide btn
+ 2022-03-16 13:59:03,449  INFO [main] Animation:56 - click on hide btn
+ 2022-03-16 13:59:04,078  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-16 13:59:04,080  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-16 13:59:04,334  INFO [main] Hooks:33 - Colse the Server
+ 2022-03-16 14:07:57,435  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-16 14:08:01,078  INFO [main] Animation:22 - Start The App
+ 2022-03-16 14:08:12,549  INFO [main] Animation:29 - Click on animation
+ 2022-03-16 14:08:14,875  INFO [main] Animation:31 - Click on animation end
+ 2022-03-16 14:08:14,923  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-16 14:08:16,260  INFO [main] Animation:53 - click on hide btn
+ 2022-03-16 14:08:16,665  INFO [main] Animation:56 - click on hide btn
+ 2022-03-16 14:08:17,305  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-16 14:08:17,306  INFO [main] Hooks:33 - Colse the Server
+ 2022-03-16 14:08:17,360  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-16 14:09:25,772  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-16 14:09:29,517  INFO [main] Animation:22 - Start The App
+ 2022-03-16 14:09:42,423  INFO [main] Animation:29 - Click on animation
+ 2022-03-16 14:09:44,742  INFO [main] Animation:31 - Click on animation end
+ 2022-03-16 14:09:44,810  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-16 14:09:46,413  INFO [main] Animation:53 - click on hide btn
+ 2022-03-16 14:09:46,960  INFO [main] Animation:56 - click on hide btn
+ 2022-03-16 14:09:47,591  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-16 14:09:47,593  INFO [main] Hooks:33 - Colse the Server
+ 2022-03-16 14:09:47,648  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-16 14:10:00,404  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-16 14:10:04,064  INFO [main] Animation:22 - Start The App
+ 2022-03-16 14:10:16,769  INFO [main] Animation:29 - Click on animation
+ 2022-03-16 14:10:19,125  INFO [main] Animation:31 - Click on animation end
+ 2022-03-16 14:10:19,184  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-16 14:10:20,603  INFO [main] Animation:53 - click on hide btn
+ 2022-03-16 14:10:21,049  INFO [main] Animation:56 - click on hide btn
+ 2022-03-16 14:10:21,699  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-16 14:10:21,700  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-16 14:10:21,969  INFO [main] Hooks:33 - Colse the Server
+ 2022-03-16 14:10:51,256  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-16 14:10:54,880  INFO [main] Animation:22 - Start The App
+ 2022-03-16 14:11:05,019  INFO [main] Animation:29 - Click on animation
+ 2022-03-16 14:11:07,170  INFO [main] Animation:31 - Click on animation end
+ 2022-03-16 14:11:07,237  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-16 14:11:08,803  INFO [main] Animation:53 - click on hide btn
+ 2022-03-16 14:11:09,220  INFO [main] Animation:56 - click on hide btn
+ 2022-03-16 14:11:09,857  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-16 14:11:09,858  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-16 14:11:10,169  INFO [main] Hooks:33 - Colse the Server
+ 2022-03-16 14:11:23,631  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-16 14:11:27,053  INFO [main] Animation:22 - Start The App
+ 2022-03-16 14:11:38,530  INFO [main] Animation:29 - Click on animation
+ 2022-03-16 14:11:40,670  INFO [main] Animation:31 - Click on animation end
+ 2022-03-16 14:11:40,723  INFO [main] Animation:44 - click on hide show btn
+ 2022-03-16 14:11:42,148  INFO [main] Animation:53 - click on hide btn
+ 2022-03-16 14:11:42,632  INFO [main] Animation:56 - click on hide btn
+ 2022-03-16 14:11:43,381  INFO [main] Animation:63 - Exit the applicaton
+ 2022-03-16 14:11:43,381  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-16 14:11:43,626  INFO [main] Hooks:33 - Colse the Server
+ 2022-03-16 14:15:50,454  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-16 14:15:54,336  INFO [main] Animation:22 - Start The App
+ 2022-03-16 14:16:05,956  INFO [main] Animation:29 - Click on animation
+ 2022-03-16 14:16:07,866  INFO [main] Animation:31 - Click on animation end
+ 2022-03-16 14:16:07,869  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-16 14:16:08,121  INFO [main] Hooks:33 - Colse the Server
+ 2022-03-16 14:16:22,991  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-16 14:16:26,887  INFO [main] Animation:22 - Start The App
+ 2022-03-16 14:16:36,609  INFO [main] Animation:29 - Click on animation
+ 2022-03-16 14:16:38,708  INFO [main] Animation:31 - Click on animation end
+ 2022-03-16 14:16:38,710  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-16 14:16:39,004  INFO [main] Hooks:33 - Colse the Server
+ 2022-03-16 14:21:00,127  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-16 14:21:03,922  INFO [main] Animation:22 - Start The App
+ 2022-03-16 14:21:16,798  INFO [main] Animation:29 - Click on animation
+ 2022-03-16 14:21:19,062  INFO [main] Animation:31 - Click on animation end
+ 2022-03-16 14:21:19,133  INFO [main] Animation:37 - click on hide show btn
+ 2022-03-16 14:21:20,626  INFO [main] Animation:45 - click on hide btn
+ 2022-03-16 14:21:21,218  INFO [main] Animation:52 - click on hide btn
+ 2022-03-16 14:21:21,219  INFO [main] Animation:54 - click on hide btn
+ 2022-03-16 14:21:21,841  INFO [main] Animation:60 - Exit the applicaton
+ 2022-03-16 14:21:21,843  INFO [main] Hooks:33 - Colse the Server
+ 2022-03-16 14:21:24,917  INFO [main] Hooks:24 - Stop the Driver
+ 2022-03-16 14:21:34,369  INFO [main] Hooks:16 - Start Appium 
+ 2022-03-16 14:21:38,070  INFO [main] Animation:22 - Start The App
+ 2022-03-16 14:21:51,394  INFO [main] Animation:29 - Click on animation
+ 2022-03-16 14:21:53,288  INFO [main] Animation:31 - Click on animation end
+ 2022-03-16 14:21:53,357  INFO [main] Animation:37 - click on hide show btn
+ 2022-03-16 14:21:54,827  INFO [main] Animation:45 - click on hide btn
+ 2022-03-16 14:21:55,379  INFO [main] Animation:52 - click on hide btn
+ 2022-03-16 14:21:55,380  INFO [main] Animation:54 - click on hide btn
+ 2022-03-16 14:21:55,961  INFO [main] Animation:60 - Exit the applicaton
+ 2022-03-16 14:21:55,962  INFO [main] Hooks:33 - Colse the Server
+ 2022-03-16 14:21:59,037  INFO [main] Hooks:24 - Stop the Driver
+ 
