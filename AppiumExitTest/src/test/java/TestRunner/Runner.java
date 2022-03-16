@@ -7,7 +7,6 @@ import cucumber.api.testng.AbstractTestNGCucumberTests;
 (
 features = "./src/test/java/FeaturesFiles",
  glue = "StepDefination",
- dryRun = false,
  monochrome = true,
  tags = {"@smoke"}
 

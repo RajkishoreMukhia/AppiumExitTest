@@ -13,8 +13,6 @@ public class Animation extends BaseClass{
 	
 	Animation_Screen ani;
 	
-	
-	
 
 	@Given("^Open application$")
 	public void open_application() throws Throwable {
@@ -23,40 +21,52 @@ public class Animation extends BaseClass{
 		setupApp();
 	}
 	
-	@Given("^Click on animation$")
+	@Given("^Click on Animation$")
 	public void click_on_animation() throws Throwable {
+		
 		ani = new Animation_Screen(wd);
 		log.loger.info("Click on animation");
 		ani.clickAniamtion();
-		log.loger.info("Click on animation end");
 	}
 	
-	@Then("^Click on hide show animation button$")
+	@Then("^Click on Hide-Show Animations button$")
 	public void click_on_hide_show_animation_button() throws Throwable {
+		
 		ani = new Animation_Screen(wd);
 		log.loger.info("click on hide show btn");
 		
 		ani.clickHideShow();
 	}
 
-	@Then("^Click on show buttons and$")
+	@When("^Click on number buttons$")
 	public void click_on_show_buttons_and() throws Throwable {
 		ani = new Animation_Screen(wd);
 		log.loger.info("click on hide btn");
 		ani.clickHideBtn();
 	}
-
-	@When("^Click on show button$")
-	public void click_on_show_button() throws Throwable {
+	
+	@Then("^Numbers btn are hide$")
+	public void numbers_btn_are_hide() throws Throwable {
+		log.loger.info("Number btn are hide");
+		log.loger.info("Exit the applicaton");
+		stopDriver();
+	}
+	
+	@When("^Click on Show Btn$")
+	public void click_on_Show_Btn() throws Throwable {
 		ani = new Animation_Screen(wd);
 		log.loger.info("click on hide btn");
+		ani.clickShowBtn();
 		
-		log.loger.info("click on hide btn");
-	    ani.clickShowBtn();
+	}
+	
+	@Then("^Numbers buttons are Shown$")
+	public void numbers_buttons_are_Shown() throws Throwable {
+		log.loger.info("Number btn are shown");
+		log.loger.info("Exit the applicaton");
+		
 	}
 
-	@Then("^Btn are showing$")
-	public void btn_are_showing() throws Throwable {
-		log.loger.info("Exit the applicaton");
-	}
+	
+
 }

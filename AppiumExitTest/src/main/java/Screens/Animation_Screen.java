@@ -1,80 +1,66 @@
 package Screens;
 
-import static io.appium.java_client.touch.TapOptions.tapOptions;
-import static io.appium.java_client.touch.offset.ElementOption.element;
-
-import java.sql.Driver;
-
 import org.openqa.selenium.support.PageFactory;
-import org.openqa.selenium.support.ui.WebDriverWait;
-
-import Base.BaseClass;
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;
-import io.appium.java_client.TouchAction;
 import io.appium.java_client.android.AndroidElement;
 import io.appium.java_client.android.AndroidTouchAction;
 import io.appium.java_client.pagefactory.AndroidFindBy;
 import io.appium.java_client.pagefactory.AppiumFieldDecorator;
+import io.appium.java_client.touch.TapOptions;
+import io.appium.java_client.touch.offset.ElementOption;
 
 public class Animation_Screen {
 	
-	public AppiumDriver<MobileElement> webd;
+	public AppiumDriver<MobileElement> driver;
+
 	
 
 	public Animation_Screen(AppiumDriver<MobileElement> driver) {
 		
-		 this.webd = driver;
-		 PageFactory.initElements(new AppiumFieldDecorator(webd),this);
+		 this.driver = driver;
+		 PageFactory.initElements(new AppiumFieldDecorator(driver),this);
 	}
 	
-	@AndroidFindBy(id ="Animation")
-    public AndroidElement animation_btn;
+	@AndroidFindBy(xpath = "\r\n"
+			+ "//android.widget.TextView[@content-desc=\"Animation\"]")
+    public MobileElement animation_btn;
+	
 	@AndroidFindBy(accessibility = "Hide-Show Animations")
     public AndroidElement hide_show_animation;
 	
 	@AndroidFindBy(xpath = "/hierarchy/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.Button[1]")
 	public AndroidElement hide_button0;
 	
-	@AndroidFindBy(xpath = "/hierarchy/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.Button[2]")
-	public AndroidElement hide_button1;
-	
 	@AndroidFindBy(xpath = "/hierarchy/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.Button[3]")
 	public AndroidElement hide_button2;
-	
-	@AndroidFindBy(xpath = "/hierarchy/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.Button[4]")
-	public AndroidElement hide_button3;
-	
-	
+
 	@AndroidFindBy(id = "io.appium.android.apis:id/addNewButton")
 	public AndroidElement show_Btn;
 	
 	
 	
-	
-	
-	
 	public void clickAniamtion() throws InterruptedException {
-		TouchAction touch = new TouchAction(webd);
-		MobileElement Element = (MobileElement) webd.findElementByXPath("	\r\n"
-				+ "//android.widget.TextView[@content-desc=\"Animation\"]");
-		touch.tap(tapOptions().withElement(element(Element))).release().perform();	
+		AndroidTouchAction action = new AndroidTouchAction(driver);	
+		action.tap(TapOptions.tapOptions().withElement(ElementOption.element(animation_btn))).perform();
     }
 	 
 	public void clickHideShow() {
-		hide_show_animation.click();
+		AndroidTouchAction action = new AndroidTouchAction(driver);	
+		action.tap(TapOptions.tapOptions().withElement(ElementOption.element(hide_show_animation))).perform();
 	}
 	
 	public void clickHideBtn() throws InterruptedException {
-		hide_button0.click();
-//		hide_button1.click();
-		hide_button2.click();
-//		hide_button3.click();
+		AndroidTouchAction action = new AndroidTouchAction(driver);	
+		action.tap(TapOptions.tapOptions().withElement(ElementOption.element(hide_button0))).perform();
+		
+		action.tap(TapOptions.tapOptions().withElement(ElementOption.element(hide_button2))).perform();
 		
 	}
 	
 	public void clickShowBtn() throws InterruptedException {
-		show_Btn.click();
+		AndroidTouchAction action = new AndroidTouchAction(driver);	
+		action.tap(TapOptions.tapOptions().withElement(ElementOption.element(show_Btn))).perform();
 	}
 	
 
