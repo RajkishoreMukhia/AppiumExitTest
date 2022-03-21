@@ -3,7 +3,7 @@ import org.apache.log4j.Logger;
 
 public class Loger {
 	
-	//intialize logger
+	//intialize logger variable
 	public Logger loger;
 
 	//constructor for loger get class name 

@@ -5,8 +5,9 @@ import org.testng.Assert;
 import Base.BaseClass;
 import Screens.Reversing_Screen;
 import Utilites.Loger;
-import cucumber.api.java.en.Then;
-import cucumber.api.java.en.When;
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
+
 
 public class Reversing extends BaseClass {
 	
@@ -42,7 +43,16 @@ public class Reversing extends BaseClass {
 	@Then("^The item goes same place$")
 	public void the_item_goes_same_place() throws Throwable {
 		boolean isEnable = res.revers_btn.isEnabled();
-		Assert.assertEquals(isEnable, true);
+		if(isEnable == true) {
+			Assert.assertEquals(isEnable, false);
+			log.loger.info("Assertion is pass succsessfully");
+			
+			
+		}
+		else {
+			
+			stopDriver();
+		}
 		
 		stopDriver();
 	}

@@ -13,13 +13,16 @@ import io.appium.java_client.touch.offset.ElementOption;
 
 public class Display_Screen {
 
-public AppiumDriver<MobileElement> driver;
+	//Initialize the appium driver
+	public AppiumDriver<MobileElement> driver;
 	
+	//create constructor for page factory
 	public Display_Screen(AppiumDriver<MobileElement> driver) {
 		this.driver = driver;
 		 PageFactory.initElements(new AppiumFieldDecorator(driver),this);
 	}
 	
+	//Find Locators by AndroidFindBy
 	@AndroidFindBy(accessibility = "App")
 	public AndroidElement app_btn;
 	
@@ -48,31 +51,38 @@ public AppiumDriver<MobileElement> driver;
 	@AndroidFindBy(xpath = "//android.widget.Button[@content-desc=\"Custom View!\"]")
 	public AndroidElement ShowCustom;
 	
+	
+	//Create method for touch action 
 	public void clickAppBar() {
 		AndroidTouchAction action = new AndroidTouchAction(driver);	
 		action.tap(TapOptions.tapOptions().withElement(ElementOption.element(app_btn))).perform();
 	}
 	
+	//Create method for touch action 
 	public void clickActionBar() {
 		AndroidTouchAction action = new AndroidTouchAction(driver);	
 		action.tap(TapOptions.tapOptions().withElement(ElementOption.element(actionBar_btn))).perform();
 	}
 	
+	//Create method for touch action 
 	public void clickDisplayBar() {
 		AndroidTouchAction action = new AndroidTouchAction(driver);	
 		action.tap(TapOptions.tapOptions().withElement(ElementOption.element(display_btn))).perform();
 	}
 	
+	//Create method for touch action 
 	public void clickShowHomeBtn() {
 		AndroidTouchAction action = new AndroidTouchAction(driver);	
 		action.tap(TapOptions.tapOptions().withElement(ElementOption.element(showHome_btn))).perform();
 	}
 	
+	//Create method for touch action 
 	public void clickShowTitleBtn() {
 		AndroidTouchAction action = new AndroidTouchAction(driver);	
 		action.tap(TapOptions.tapOptions().withElement(ElementOption.element(showTtile_btn))).perform();
 	}
 	
+	//Create method for touch action 
 	public void clickShowCustomBtn() {
 		AndroidTouchAction action = new AndroidTouchAction(driver);	
 		action.tap(TapOptions.tapOptions().withElement(ElementOption.element(showCustom_btn))).perform();

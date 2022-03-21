@@ -1,9 +1,14 @@
 package StepDefination;
 
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import Base.BaseClass;
 import Utilites.Loger;
-import cucumber.api.java.After;
-import cucumber.api.java.Before;
+import io.cucumber.java.After;
+import io.cucumber.java.AfterStep;
+import io.cucumber.java.Before;
+import io.cucumber.java.Scenario;
+
 
 public class Hooks extends BaseClass{
 
@@ -34,6 +39,17 @@ public class Hooks extends BaseClass{
 		Thread.sleep(3000);
 		closeAppium();
 		
+		
+	}
+	
+	@AfterStep
+	public void addScreenshot(Scenario scenario){
+
+		//validate if scenario has failed
+		if(scenario.isFailed()) {
+			final byte[] screenshot = ((TakesScreenshot) wd).getScreenshotAs(OutputType.BYTES);
+			scenario.attach(screenshot, "image/png", "image"); 
+		}
 		
 	}
 }

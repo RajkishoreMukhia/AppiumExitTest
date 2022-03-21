@@ -35,7 +35,7 @@ public class BaseClass {
 	//set path for logging
 	public void logging() {
 		
-		PropertyConfigurator.configure("./src/test/resource/log4j.properties");		
+		PropertyConfigurator.configure("./src/test/resources/log4j.properties");		
 	}
 	
 	

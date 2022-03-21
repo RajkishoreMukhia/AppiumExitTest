@@ -14,16 +14,17 @@ import io.appium.java_client.touch.offset.ElementOption;
 
 public class Animation_Screen {
 	
+	//Initialize the appium driver
 	public AppiumDriver<MobileElement> driver;
 	
+	//create constructor for page factory
 	public Animation_Screen(AppiumDriver<MobileElement> driver) {
 		this.driver = driver;
 		 PageFactory.initElements(new AppiumFieldDecorator(driver),this);
 	}
 	
-	
-	@AndroidFindBy(xpath = "\r\n"
-			+ "//android.widget.TextView[@content-desc=\"Animation\"]")
+	//Find Locators by AndroidFindBy
+	@AndroidFindBy(xpath = "//android.widget.TextView[@content-desc=\"Animation\"]")
     public AndroidElement animation_btn;
 	
 	@AndroidFindBy(accessibility = "Hide-Show Animations")
@@ -39,18 +40,20 @@ public class Animation_Screen {
 	public AndroidElement show_Btn;
 	
 	
-	
+	//Create method for touch action 
 	public void clickAniamtion() {
 		AndroidTouchAction action = new AndroidTouchAction(driver);	
 		action.tap(TapOptions.tapOptions().withElement(ElementOption.element(animation_btn))).perform();
     }
-	 
+	
+	//Create method for touch action 
 	public void clickHideShow() throws InterruptedException {
 		AndroidTouchAction action = new AndroidTouchAction(driver);	
 		action.tap(TapOptions.tapOptions().withElement(ElementOption.element(hide_show_animation))).perform();
 		Thread.sleep(1000);
 	}
 	
+	//Create method for touch action 
 	public void clickHideBtn() throws InterruptedException {
 		AndroidTouchAction action = new AndroidTouchAction(driver);	
 		action.tap(TapOptions.tapOptions().withElement(ElementOption.element(hide_button0))).perform();
@@ -59,6 +62,7 @@ public class Animation_Screen {
 		Thread.sleep(1000);
 	}
 	
+	//Create method for touch action 
 	public void clickShowBtn() throws InterruptedException {
 		AndroidTouchAction action = new AndroidTouchAction(driver);	
 		action.tap(TapOptions.tapOptions().withElement(ElementOption.element(show_Btn))).perform();

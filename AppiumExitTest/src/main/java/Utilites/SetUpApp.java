@@ -10,8 +10,10 @@ import io.appium.java_client.android.AndroidDriver;
 
 public class SetUpApp {
 	
+	//Initialize the appium driver
 	public static AppiumDriver<MobileElement> driver;
 	
+	// Set capabilites for android app
 	public void startApp() {
 	
 		DesiredCapabilities capabilites =  new DesiredCapabilities();
