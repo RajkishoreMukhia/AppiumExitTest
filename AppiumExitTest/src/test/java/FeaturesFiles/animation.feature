@@ -1,6 +1,6 @@
 Feature: Check animation feature Hide Show Button
 
-  @smoke
+  @ani @smoke
   Scenario: Animation Hide Btn
     Given Open application
     And Click on Animation
@@ -8,7 +8,7 @@ Feature: Check animation feature Hide Show Button
     When Click on number buttons
     Then Numbers btn are hide
 
-  #@smoke
+   @ani @smoke
   Scenario: Animatioon Show Btn
     Given Open application
     And Click on Animation

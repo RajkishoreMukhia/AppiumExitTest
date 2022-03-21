@@ -8,16 +8,12 @@ import io.appium.java_client.service.local.AppiumDriverLocalService;
 
 public class BaseClass {
 	
-//		//Intialise driver
+	//Intialise driver
 	public static AppiumDriver<MobileElement> wd ;
 	
 	//For Appium local servise  
 	AppiumDriverLocalService service;
 	
-	
-	//intialise extend reporting variables
-//	public static  ExtentReports extent;
-//	public static  ExtentTest extentTest;	
 		
 	
 	//Start appium driver localy
@@ -42,20 +38,6 @@ public class BaseClass {
 		PropertyConfigurator.configure("./src/test/resource/log4j.properties");		
 	}
 	
-	//set the extend to path for save the report every time before the suite
-//	public void setExtent() {
-//		
-//	extent = new ExtentReports("./Reports/extentreports.html");
-//	
-//	}
-	
-	//ending the reporting after the suite
-//	public void endReport() {
-//		
-//	extent.flush();
-//	extent.close();
-	
-//	}
 	
 	//method for stop the driver
 	public void stopDriver() {

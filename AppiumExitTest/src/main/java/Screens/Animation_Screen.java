@@ -1,6 +1,8 @@
 package Screens;
 
 import org.openqa.selenium.support.PageFactory;
+
+import Base.BaseClass;
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.android.AndroidElement;
@@ -13,18 +15,16 @@ import io.appium.java_client.touch.offset.ElementOption;
 public class Animation_Screen {
 	
 	public AppiumDriver<MobileElement> driver;
-
 	
-
 	public Animation_Screen(AppiumDriver<MobileElement> driver) {
-		
-		 this.driver = driver;
+		this.driver = driver;
 		 PageFactory.initElements(new AppiumFieldDecorator(driver),this);
 	}
 	
+	
 	@AndroidFindBy(xpath = "\r\n"
 			+ "//android.widget.TextView[@content-desc=\"Animation\"]")
-    public MobileElement animation_btn;
+    public AndroidElement animation_btn;
 	
 	@AndroidFindBy(accessibility = "Hide-Show Animations")
     public AndroidElement hide_show_animation;
@@ -40,27 +40,29 @@ public class Animation_Screen {
 	
 	
 	
-	public void clickAniamtion() throws InterruptedException {
+	public void clickAniamtion() {
 		AndroidTouchAction action = new AndroidTouchAction(driver);	
 		action.tap(TapOptions.tapOptions().withElement(ElementOption.element(animation_btn))).perform();
     }
 	 
-	public void clickHideShow() {
+	public void clickHideShow() throws InterruptedException {
 		AndroidTouchAction action = new AndroidTouchAction(driver);	
 		action.tap(TapOptions.tapOptions().withElement(ElementOption.element(hide_show_animation))).perform();
+		Thread.sleep(1000);
 	}
 	
 	public void clickHideBtn() throws InterruptedException {
 		AndroidTouchAction action = new AndroidTouchAction(driver);	
 		action.tap(TapOptions.tapOptions().withElement(ElementOption.element(hide_button0))).perform();
-		
+		Thread.sleep(1000);
 		action.tap(TapOptions.tapOptions().withElement(ElementOption.element(hide_button2))).perform();
-		
+		Thread.sleep(1000);
 	}
 	
 	public void clickShowBtn() throws InterruptedException {
 		AndroidTouchAction action = new AndroidTouchAction(driver);	
 		action.tap(TapOptions.tapOptions().withElement(ElementOption.element(show_Btn))).perform();
+		Thread.sleep(1000);
 	}
 	
 

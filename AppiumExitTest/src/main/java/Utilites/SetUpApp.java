@@ -15,7 +15,7 @@ public class SetUpApp {
 	public void startApp() {
 	
 		DesiredCapabilities capabilites =  new DesiredCapabilities();
-	
+		capabilites.setCapability("isHeadless", true);
 		capabilites.setCapability("platformVersion", "8.1");
 		capabilites.setCapability("platformName", "Android");
 		capabilites.setCapability("appPackage", "io.appium.android.apis");

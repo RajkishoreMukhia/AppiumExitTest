@@ -1,5 +1,8 @@
 package StepDefination;
 
+import org.testng.Assert;
+import org.testng.annotations.Test;
+
 import Base.BaseClass;
 import Screens.Animation_Screen;
 import Utilites.Loger;
@@ -14,14 +17,14 @@ public class Animation extends BaseClass{
 	Animation_Screen ani;
 	
 
-	@Given("^Open application$")
+	@Test @Given("^Open application$")
 	public void open_application() throws Throwable {
 		
 		log.loger.info("Start The App");
 		setupApp();
 	}
 	
-	@Given("^Click on Animation$")
+	@Test @Given("^Click on Animation$")
 	public void click_on_animation() throws Throwable {
 		
 		ani = new Animation_Screen(wd);
@@ -29,41 +32,49 @@ public class Animation extends BaseClass{
 		ani.clickAniamtion();
 	}
 	
-	@Then("^Click on Hide-Show Animations button$")
+	@Test @Then("^Click on Hide-Show Animations button$")
 	public void click_on_hide_show_animation_button() throws Throwable {
 		
-		ani = new Animation_Screen(wd);
 		log.loger.info("click on hide show btn");
 		
 		ani.clickHideShow();
 	}
 
-	@When("^Click on number buttons$")
+	@Test @When("^Click on number buttons$")
 	public void click_on_show_buttons_and() throws Throwable {
-		ani = new Animation_Screen(wd);
 		log.loger.info("click on hide btn");
 		ani.clickHideBtn();
 	}
 	
-	@Then("^Numbers btn are hide$")
+	@Test @Then("^Numbers btn are hide$")
 	public void numbers_btn_are_hide() throws Throwable {
 		log.loger.info("Number btn are hide");
+	
+		Assert.assertEquals(ani.hide_button0.getText(), "1");
+		log.loger.info("Assertion is pass Succsessfully");
+		
 		log.loger.info("Exit the applicaton");
 		stopDriver();
 	}
 	
-	@When("^Click on Show Btn$")
+	@Test @When("^Click on Show Btn$")
 	public void click_on_Show_Btn() throws Throwable {
-		ani = new Animation_Screen(wd);
 		log.loger.info("click on hide btn");
 		ani.clickShowBtn();
 		
 	}
 	
-	@Then("^Numbers buttons are Shown$")
+	@Test @Then("^Numbers buttons are Shown$")
 	public void numbers_buttons_are_Shown() throws Throwable {
 		log.loger.info("Number btn are shown");
+
+		
+		Assert.assertEquals(ani.hide_button0.getText(), "0");
+		log.loger.info("Assertion is pass Succsessfully");
+		
+		
 		log.loger.info("Exit the applicaton");
+		stopDriver();
 		
 	}
 

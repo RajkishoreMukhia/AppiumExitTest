@@ -5,11 +5,12 @@ import cucumber.api.testng.AbstractTestNGCucumberTests;
 
 @CucumberOptions
 (
-features = "./src/test/java/FeaturesFiles",
- glue = "StepDefination",
- monochrome = true,
- tags = {"@smoke"}
-
+//		plugin = { "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:" },
+		features = "./src/test/java/FeaturesFiles",
+		glue = {"StepDefination"},
+		 
+		 
+		 tags = {"@ani"}
 
 )
 

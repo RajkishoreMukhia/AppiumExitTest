@@ -30,7 +30,7 @@ public class Hooks extends BaseClass{
 	@After
 	public void cloesServer() throws InterruptedException {
 		
-		log.loger.info("Colse the Server");
+		log.loger.info("Close the Server");
 		Thread.sleep(3000);
 		closeAppium();
 		
